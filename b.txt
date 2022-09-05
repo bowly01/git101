@@ -1,1 +1,1 @@
-สร้างไฟล์ b ใหม่
+สร้างไฟล์ b ใหม่(new in branch feature2)
