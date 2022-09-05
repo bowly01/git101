@@ -1,1 +1,1 @@
-add new file text(update data 25(ex.old pc))
+add new file text(update data 26(ex.old pc for conflict))
